@@ -1,0 +1,9 @@
+Mouse dpi - 800
+Mouse interpol - 1000 HZ (checking frequency to update the status)
+
+headset settings:
+Loudness Equalization on (turn its filter setting to "Short")
+When pressing config, I dont remember if left/right that thing is checked
+G hub: No special tweaks
+
+Mic volume: 74
